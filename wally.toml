@@ -1,6 +1,7 @@
 [package]
 name = "yumacide/array3d"
 description = "A flat 3D array implementation"
-version = "1.0.0"
+version = "1.0.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+include = ["default.project.json", "Array3D.luau"]
